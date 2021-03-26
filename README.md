@@ -10,3 +10,4 @@
 * [__5장 ref: DOM에 이름 달기__](https://github.com/seuha516/ReactPractice/tree/main/05-hello-react)
 * [__6장 컴포넌트 반복__](https://github.com/seuha516/ReactPractice/tree/main/06-hello-react)
 * [__7장 컴포넌트의 라이프사이클 메서드__](https://github.com/seuha516/ReactPractice/tree/main/07-hello-react)
+* [__8장 Hooks__](https://github.com/seuha516/ReactPractice/tree/main/08-hooks-tutorial)
