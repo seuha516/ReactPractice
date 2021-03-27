@@ -14,7 +14,7 @@
 * [__9장 컴포넌트 스타일링__](https://github.com/seuha516/ReactPractice/tree/main/09-styling-react)
 * [__10장 일정 관리 앱 애플리케이션 만들기__](https://github.com/seuha516/ReactPractice/tree/main/10-todo-app)
 * [__11장 컴포넌트 성능 최적화__](https://github.com/seuha516/ReactPractice/tree/main/11-todo-app)
-* [__12장 immer를 사용하여 더 쉽게 불변성 __](https://github.com/seuha516/ReactPractice/tree/main/12-immer-tutorial)
+* [__12장 immer를 사용하여 더 쉽게 불변성 유지하기__](https://github.com/seuha516/ReactPractice/tree/main/12-immer-tutorial)
 * [__13장 __]()
 * [__14장 __]()
 * [__15장 __]()
