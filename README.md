@@ -21,8 +21,8 @@
 * [__16장 리덕스 라이브러리 이해하기__](https://github.com/seuha516/ReactPractice/tree/main/16-vanilla-redux)
 * [__17장 리덕스를 사용하여 리액트 애플리케이션 상태 관리하기__](https://github.com/seuha516/ReactPractice/tree/main/17-react-redux-tutorial)
 * [__18장 리덕스 미들웨어를 통한 비동기 작업 관리__](https://github.com/seuha516/ReactPractice/tree/main/18-learn-redux-middleware)
-* [__19장 코드 스플리팅__]()
-* [__20장 서버 사이드 렌더링__]()
+* [__19장 코드 스플리팅__](https://github.com/seuha516/ReactPractice/tree/main/19-splitting-sample)
+* ~~__20장 서버 사이드 렌더링__~~
 * [__21장 백엔드 프로그래밍: Node.js의 Koa 프레임워크__]()
 * [__22장 mongoose를 이용한 MongoDB 연동 실습__]()
 * [__23장 JWT를 통한 회원 인증 시스템 구현하기__]()
